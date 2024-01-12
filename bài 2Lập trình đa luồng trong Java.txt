@@ -1,0 +1,21 @@
+bài 2:Lập trình đa luồng trong Java
+1:giới thiệu về đa luồng(thread)
+
+-cho phép các công việc được thực hiện song song
+-cho phép tăng hiệu suất của ứng dụn nhờ chua thành các thread và thực hiện song song
+-thread là một đơn vị của Process(tiến trình)
+2:vòng đời của 1 luồng
+New(luồng mới được tạo ra)
+Runable(Luồng có thể chạy)
+Blocked(Luồng bị chặn)
+Waiting(Luồng đang chờ)
+Terminated(Luồng đã kết thúc)
+3:Tạo và quản lí luồng
+-Khởi tạo
+-Bắt đầu
+-Ngủ
+-Tạm dừng
+-Kết thúc
+-Ví dụ tạo và quản lí luồng
+
+
